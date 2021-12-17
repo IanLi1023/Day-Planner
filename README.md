@@ -18,5 +18,6 @@ SO THAT I can manage my time effectively
 
 
 ## The URL of the deployed application
+https://ianli1023.github.io/Day-Planner/
 
 
